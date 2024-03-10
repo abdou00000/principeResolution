@@ -1,2 +1,2 @@
 # principeResolution
-algorithme de résolution des formules logiqueq
+algorithme de résolution des formules logiques
